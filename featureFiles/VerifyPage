@@ -1,0 +1,4 @@
+Feature: Verify Website Webpages
+
+  Scenario: To verify home page
+    Given school domain
